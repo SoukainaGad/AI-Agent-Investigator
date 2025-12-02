@@ -1,6 +1,6 @@
 # 🕵️‍♀️ AI Agent Investigator
 
-### 🔍 Overvie
+### 🔍 Overview
 
 **AI Agent Investigator** is a Streamlit-based multi-agent OSINT system that investigates companies for potential relationships with defense contractors, military suppliers, or activities related to geopolitical conflicts — such as the military invasion in **Gaza and the West Bank**.
 
