@@ -8,7 +8,7 @@ It automates **open-source intelligence (OSINT)** research using AI agents that 
 
 ---
 
-### 🧩 What’s Includeddd
+### 🧩 What’s Included
 
 * Automated **OSINT research** using AI agents
 * **Researcher Agent** → finds and summarizes verified public data
